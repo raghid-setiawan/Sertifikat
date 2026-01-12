@@ -40,3 +40,5 @@
 # 12. Sertifikat Penghargaan Kabupaten Wonosobo
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Muhammad%20Raghid%20Setiawan_sign.jpg?raw=true">
 
+# 13. Sertifikat Apresiasi Diskominfo Provinsi Jambi
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/SERTIFIKAT%20APRESIASI%20Muhammad%20Raghid%20Setiawan_signed_signed_signed_page-0001.jpg?raw=true">
