@@ -42,3 +42,7 @@
 
 # 13. Sertifikat Apresiasi Diskominfo Provinsi Jambi
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/SERTIFIKAT%20APRESIASI%20Muhammad%20Raghid%20Setiawan_signed_signed_signed_page-0001.jpg?raw=true">
+
+# 14. Sertifikat Apresiasi Diskominfo Daerah Istimewa Yogyakarta (DIY)
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Sertifikat%20Apresiasi%20-%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
+
