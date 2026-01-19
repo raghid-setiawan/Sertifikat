@@ -49,3 +49,7 @@
 ## 15. Sertifikat Apresiasi KOMDIGI-CSIRT (Kementerian Komunikasi dan Digital)
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/20260115100211_2136ea1f-4520-4131-96d8-bbf3bcfdb557.jpg?raw=true">
 
+## 16 Sertifikat Apresiasi Dinkominfosan Kota Jogjakarta
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/20260119%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
+
+
