@@ -52,4 +52,9 @@
 ## 16. Sertifikat Apresiasi Dinkominfosan Kota Jogjakarta
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/20260119%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
 
+## 17. Sertifikat Apresiasi Diskominfosan Kabupaten Banyuwangi
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/MUHAMMAD%20RAGHID%20SETIAWAN.jpg?raw=true">
+
+## 18. Sertifikat Apresiasi Diskominfo Kota Pontianak
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/sertifikat%20apresiasi%20Muhammad%20Raghid%20Setiawan_signed.jpg?raw=true">
 
