@@ -58,3 +58,6 @@
 ## 18. Sertifikat Apresiasi Diskominfo Kota Pontianak
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/sertifikat%20apresiasi%20Muhammad%20Raghid%20Setiawan_signed.jpg?raw=true">
 
+## 19. Sertifikat Apresiasi CSIRT Darmajaya
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/IMG-20260120-WA0001.jpg?raw=true">
+
