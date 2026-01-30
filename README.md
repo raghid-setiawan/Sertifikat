@@ -23,7 +23,7 @@
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/aca6bc4013f9_Sertifikat%20-%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
 
 ## 7. Sertifikat Apresiasi Pemerintah Kabupaten Bantul
-<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Sertifikat%20bug%20hunter%20a.n.%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Sertifikat%20Bug%20Hunter%20a.n.%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
 
 ## 8. Sertifikat Apresiasi Universitas 17 Agustus 1945 Semarang (UNTAG SMG)
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Sertifikat%20Apresiasi%20Raghid.jpg?raw=true">
