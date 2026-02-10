@@ -76,5 +76,11 @@
 ## 24. Sertifikat Apresiasi CSIRT ESDM
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Sertifikat%20ESDM-CSIRT%20an.%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
 
+## 25. Sertifikat Apresiasi Diskominfo SANTIK Provinsi Sulawesi Tengah
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/_Muhammad%20Raghid%20Setiawan_sign.jpg?raw=true">
+
+## 26. Sertifikat Apresiasi Diskominfotik Provinsi DKI Jakarta
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Muhammad%20Raghid%20Setiawan_-1_signed.jpg?raw=true">
+
 
 
