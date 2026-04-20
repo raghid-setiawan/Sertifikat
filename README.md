@@ -82,5 +82,8 @@
 ## 26. Sertifikat Apresiasi Diskominfotik Provinsi DKI Jakarta
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Muhammad%20Raghid%20Setiawan_-1_signed.jpg?raw=true">
 
+## 27. Sertifikat Apresiasi Universitas Brawijaya
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/00007%20SK.A0410%20DTI%20Sertifikat%20Penghargaan%20atas%20Pelaporan%20Kerentanan%20-%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
+
 
 
