@@ -86,7 +86,7 @@
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/00007%20SK.A0410%20DTI%20Sertifikat%20Penghargaan%20atas%20Pelaporan%20Kerentanan%20-%20Muhammad%20Raghid%20Setiawan.jpg?raw=true">
 
 ## 28. Sertifikat Apresiasi Universitas Bina Sarana Informatika Evaluasi Sistem Keamanan KampusOnline BSI
-<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Muhammad%20Raghid%20Setiawan.jpg?raw=true">
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Muhammad%20Raghid%20Setiawan.webp?raw=true">
 
 ## 29. Sertifikat Apresiasi U.S. Department of Education Vulnerability Disclosure Cybersecurity Contribution
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Certificate%20of%20Recognition_Muhammad%20Raghid%20Setiawan.jpg?raw=true">
