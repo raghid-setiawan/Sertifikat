@@ -91,3 +91,8 @@
 ## 29. Sertifikat Apresiasi U.S. Department of Education Vulnerability Disclosure Cybersecurity Contribution
 <img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Certificate%20of%20Recognition_Muhammad%20Raghid%20Setiawan.jpg?raw=true">
 
+## 30. Sertifikat Apresiasi PT Bank Rakyat Indonesia (Persero) Tbk. – BRI
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Sertifikat%20Apresiasi_M%20Raghid%20Setiawan.jpg?raw=true">
+
+## 31. Sertifikat Apresiasi University of Oslo (UiO-CERT)
+<img src="https://github.com/raghid-setiawan/Sertifikat/blob/main/Muhammad%20Raghid%20Setiawan.jpg?raw=true">
